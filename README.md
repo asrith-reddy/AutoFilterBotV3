@@ -79,4 +79,4 @@ Once a poster is fetched from OMDB , poster is saved to DB to reduce duplicate r
 * [Lucifer Morningstar](@Lucifer_Devil_AD)
 
 ## License
-Code released under [The GNU General Public License](LICENSE).
+Code released under [The GNU General Public License](LICENSE)..
